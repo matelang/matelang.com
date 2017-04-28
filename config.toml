@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://matelang.com/"
+theme = "aerial"
+
+[params]
+  name = "Mate Lang"
+  about = "Chief Technology Officer &nbsp;&bull;&nbsp; SmartUp.io &nbsp;&bull;&nbsp; Never asked for this"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/langmate"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/mate.lang"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/matelang"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:hello@matelang.com"
